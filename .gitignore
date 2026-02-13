@@ -1,0 +1,22 @@
+# pixi environments
+.pixi/*
+!.pixi/config.toml
+
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints
+
+pixi.lock
+pixi.toml
+
+
+.*
+.*/*
+
+/gse*
+
+seurat_*.rds
+
